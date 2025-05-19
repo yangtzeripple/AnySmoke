@@ -1,6 +1,7 @@
 # AnySmoke
 
 **Segment Any Wildfire Smoke Dataset and Benchmark**
+We will factor the code into a more use friendly version soon
 
 ---
 
@@ -35,7 +36,7 @@ We evaluate the following SOTA segmentation architectures:
    ```bash
    git clone https://github.com/YourOrg/AnySmoke.git
    cd AnySmoke
-````
+   ```
 
 2. **Create a conda environment**
 
