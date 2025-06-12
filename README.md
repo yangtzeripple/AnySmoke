@@ -52,7 +52,7 @@ We evaluate the following state-of-the-art segmentation models:
 1. **Performance on state-of-the-art segmentation models**
   <img src="res/res_on_sota.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
 
-2. **Performance across varying training data percentages.**
+2. **Performance across varying training data percentages**
   <img src="res/vis.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
 
 ## Announcement
