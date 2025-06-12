@@ -3,7 +3,7 @@
 ---
 
 ## Overview
-<img src="res/regions.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
+<img src="assets/regions.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
 
 **AnySmoke** is the official implement for our paper _“AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark”_. It provides:
 
@@ -50,10 +50,10 @@ We evaluate the following state-of-the-art segmentation models:
 ## Result
 
 1. **Performance on state-of-the-art segmentation models**
-  <img src="res/res_on_sota.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
+  <img src="assets/res_on_sota.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
 
 2. **Performance across varying training data percentages**
-  <img src="res/vis.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
+  <img src="assets/vis.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
 
 ## Announcement
 
