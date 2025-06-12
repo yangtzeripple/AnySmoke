@@ -1,6 +1,4 @@
-# AnySmoke
-
-**AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark**
+# AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark
 
 ---
 
@@ -8,7 +6,7 @@
 
 **AnySmoke** is the official implement for our paper _“AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark”_. It provides:
 
-- A new wildfire smoke segmentation dataset (**AnySmoke**).
+- A new wildfire smoke segmentation dataset (**AnySmoke**), it can be downloaded at [AnySmoke](https://www.kaggle.com/datasets/zhaohongjin0615/anysmoke)
 - Evaluation scripts for state-of-the-art segmentation models on this dataset.
 - Baseline results and benchmark metrics.
 
@@ -57,19 +55,4 @@ We evaluate the following SOTA segmentation architectures:
 
 Benchmark results (IoU, F1, etc.) will be saved in `results/`.
 
----
-
-## Roadmap
-
-* **Post-acceptance refactor**
-  Once the paper is accepted, we will refactor this codebase to improve usability, add tutorials, and include Docker support.
-
----
-
-## References
-
-* [FoSp (official)](https://github.com/LujianYao/FoSp)
-* [Trans-BVM (official)](https://github.com/SiyuanYan1/Transmission-BVM)
-
----
-
+-
