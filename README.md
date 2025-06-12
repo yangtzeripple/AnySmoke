@@ -55,7 +55,8 @@ We evaluate the following state-of-the-art segmentation models:
 2. **Performance across varying training data percentages**
   <img src="assets/vis.jpg" alt="Country-wise distribution of the AnySmoke dataset" width="1000"/>
 
-## Announcement
+---
 
+## Announcement
 We will soon refactor some of the code and release a more user-friendly version.
 
