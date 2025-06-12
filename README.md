@@ -43,7 +43,7 @@ We evaluate the following SOTA segmentation architectures:
 
   * Model performance will be evaluated used IoU, MSE, F1, Precision and Recall.
 
--
+---
 
 ## Announcement
 
