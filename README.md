@@ -1,7 +1,6 @@
 # AnySmoke
 
 **Segment Any Wildfire Smoke Dataset and Benchmark**
-We will factor the code into a more use friendly version soon
 
 ---
 
