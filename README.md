@@ -1,12 +1,12 @@
 # AnySmoke
 
-**Segment Any Wildfire Smoke Dataset and Benchmark**
+**AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark**
 
 ---
 
 ## Overview
 
-**AnySmoke** is the official codebase for our paper _“AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark”_. It provides:
+**AnySmoke** is the official implement for our paper _“AnySmoke: Segment Any Wildfire Smoke Dataset and Benchmark”_. It provides:
 
 - A new wildfire smoke segmentation dataset (**AnySmoke**).
 - Evaluation scripts for state-of-the-art segmentation models on this dataset.
@@ -22,36 +22,10 @@ We evaluate the following SOTA segmentation architectures:
 - **DeepLabV3+**
 - **SegFormer**
 - **Mask2Former**
-- **FoSp** (_Smoke-Domain Specific_)  
-- **Trans-BVM** (_Smoke-Domain Specific_)
+- **FoSp** 
+- **Trans-BVM**
 
-> The FoSp and Trans-BVM implementations follow their respective official repositories (see References below).
-
----
-
-## Environment Setup
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/YourOrg/AnySmoke.git
-   cd AnySmoke
-   ```
-
-2. **Create a conda environment**
-
-   ```bash
-   conda create -n anysmoke python=3.9
-   conda activate anysmoke
-   ```
-
-3. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Configure model repos**
-
+> The FoSp and Trans-BVM implementations follow their respective official repositories (see References below)
    * **FoSp**: follow instructions at [LujianYao/FoSp](https://github.com/LujianYao/FoSp)
    * **Trans-BVM**: follow instructions at [SiyuanYan1/Transmission-BVM](https://github.com/SiyuanYan1/Transmission-BVM)
 
