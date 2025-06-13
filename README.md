@@ -24,7 +24,7 @@ We evaluate the following state-of-the-art segmentation models:
 - **FoSp** (domain-spefic)
 - **Trans-BVM** (domain-spefic)
 
-> The FoSp and Trans-BVM implementations follow their respective official repositories (see References below)
+> The FoSp and Trans-BVM implementations follow their respective official repositories
    * **FoSp**: follow instructions at [LujianYao/FoSp](https://github.com/LujianYao/FoSp)
    * **Trans-BVM**: follow instructions at [SiyuanYan1/Transmission-BVM](https://github.com/SiyuanYan1/Transmission-BVM)
 
