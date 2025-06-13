@@ -34,7 +34,7 @@ We evaluate the following state-of-the-art segmentation models:
 
 1. **Prepare the AnySmoke dataset**
 
-   * Download AnySmoke Dataset at [AnySmoke](https://www.kaggle.com/datasets/zhaohongjin0615/anysmoke)
+   * Download AnySmoke Dataset at [Kaggle](https://www.kaggle.com/datasets/zhaohongjin0615/anysmoke) or [Google Drive](https://www.kaggle.com/datasets/zhaohongjin0615/anysmoke)
 
 2. **Train a model**
 
